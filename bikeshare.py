@@ -3,7 +3,7 @@ from matplotlib.style import available
 import pandas as pd
 import numpy as np
 
-Debugging = True
+Debugging = False
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
